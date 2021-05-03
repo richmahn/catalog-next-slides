@@ -1,0 +1,58 @@
+.reveal {
+  font-size: 1em;
+}
+
+.reveal table {
+  font-size: 0.2em;
+}
+
+.reveal h1 {
+  font-size: 5em;
+  color: #B22222;
+  padding-top: 200px;
+}
+
+.reveal h2 {
+  font-size: 5em;
+  color: #B22222;
+  text-transform: none !important;
+}
+
+.reveal h3 {
+  font-size: 4em;
+  color: #B22222;
+  text-transform: none !important;
+}
+
+.reveal h4 {
+  font-size: 3em;
+  color: #B22222;
+  text-transform: none !important;
+}
+
+.reveal h5 {
+  font-size: 2em;
+  color: #B22222;
+  text-transform: none !important;
+}
+
+.reveal h6 {
+  font-size: 1.5em;
+  color: #B22222;
+  text-transform: none !important;
+}
+
+.reveal p {
+    font-size: 1.4em;
+    color: black;
+    text-align: justify;
+}
+
+.slides section {
+  top: 0 !important;
+}
+
+.reveal ul {
+  display: block;
+}
+
